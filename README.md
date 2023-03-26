@@ -97,7 +97,7 @@ If you have any questions or issues while using the Indexooor Stack, feel free t
 
 ## 🤝 Contributing
 
-We welcome contributions from the community! If you'd like to contribute to the Indexooor Stack, please take a look at our [contributing guidelines]() to get started.
+We welcome contributions from the community! If you'd like to contribute to the Indexooor Stack, please take a look at our [contributing guidelines](https://github.com/indexooor/indexooor-stack/blob/main/README.md#-contributing-guidelines) to get started.
 
 We use GitHub issues and pull requests for all contributions. If you'd like to report a bug or suggest a feature, please open an issue on our GitHub repository. If you'd like to submit a code change, please fork our repository and submit a pull request.
 
