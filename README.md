@@ -157,6 +157,7 @@ The Graph is a popular indexing and querying solution for Ethereum and IPFS, but
 
 | Feature                        | Indexooor | The Graph |
 |--------------------------------|-----------|-----------|
+| Can query all contract variables?| Yes | No, only emitted data is indexed|
 | Stack weight                   | Light     | Heavy     |
 | Smart contract indexing        | Yes       | Yes       |
 | Querying smart contract data   | Yes       | Yes       |
