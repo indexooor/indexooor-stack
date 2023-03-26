@@ -56,7 +56,7 @@ Refer [Op-Geth Readme](https://github.com/indexooor/op-geth/blob/optimism/README
 
 Now that you've set up each submodule of the Indexooor Stack, let's learn how to use them.
 
-## Indexing with Core
+### Indexing with Core
 
 1. Start the indexer giving `rpc`, `contractAddresses` and `startBlock`, where `rpc` is the rpc url of your node, `contractAddresses` is `,` delimited list of your contracts and `startBlock` is the block number where you want to start indexing from.
 
