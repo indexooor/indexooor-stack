@@ -13,11 +13,12 @@ Welcome to the Indexooor Stack, an open-source project for indexing and querying
 
 The stack is composed of several submodules, each serving a specific purpose:
 
-🚀 Core: Our core indexing service, written in Go, indexes smart contract slot data using a lightweight algorithm that detects slot changes for a contract in each block. All slot data is stored in a PostgreSQL database.
-🔍 Queriooor: Our querying service, written in Python using FastAPI, allows developers to upload a storage layout for their contract address and query variables by their name. The service finds the slot and data type of the variable, fetches data, and decodes it before returning it to the user.
-🖥️ Goooi-queriooor: Our UI web-app, built using Vite, simplifies querying by allowing developers to query in the browser instead of calling a REST API.
-🎮 Simulatooor: Our simulator service, written in Go, simulates all our services and demonstrates the workings of the Indexooor Stack.
-🐘 Op-geth: Our version of the Optimism Go Ethereum, which has the Indexooor Core integrated into the node for indexing smart contract data. This makes things easier for developers, who can then run an extra querier connecting their database with it for users to query data!
+- 🚀 Core: Our core indexing service, written in Go, indexes smart contract slot data using a lightweight algorithm that detects slot changes for a contract in each block. All slot data is stored in a PostgreSQL database.
+- 🔍 Queriooor: Our querying service, written in Python using FastAPI, allows developers to upload a storage layout for their contract address and query variables by their name. The service finds the slot and data type of the variable, fetches data, and decodes it before returning it to the user.
+- 🖥️ Goooi-queriooor: Our UI web-app, built using Vite, simplifies querying by allowing developers to query in the browser instead of calling a REST API.
+- 🎮 Simulatooor: Our simulator service, written in Go, simulates all our services and demonstrates the workings of the Indexooor Stack.
+- 🐘 Op-geth: Our version of the Optimism Go Ethereum, which has the Indexooor Core integrated into the node for indexing smart contract data. This makes things easier for developers, who can then run an extra querier connecting their database with it for users to query data!
+
 Our stack is lightweight and easy to run, making it accessible for developers of all levels. In this README, we'll explain how to set up and use each submodule of the stack. Let's get started!
 
 ## 🛠️ Setup
