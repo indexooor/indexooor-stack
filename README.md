@@ -9,7 +9,9 @@ To update submodules to remote use `git submodule update --remote`
 
 ## 😃 About
 
-Welcome to the Indexooor Stack, an open-source project for indexing and querying smart contract data. Our unique database schema allows for complex join queries and fetching full arrays and mappings from smart contracts, without the need for smart contracts to emit events.
+Welcome to the Indexooor Stack, an open-source project for indexing and querying smart contract data. Our unique database schema allows for complex join queries and fetching full arrays and mappings from smart contracts, without the need for smart contracts to emit events. 
+
+Refer [our comparison with the graph](https://github.com/indexooor/indexooor-stack#-indexooor-vs-the-graph) to get a better idea of what we can do and why!
 
 The stack is composed of several submodules, each serving a specific purpose:
 
