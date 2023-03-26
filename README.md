@@ -50,7 +50,7 @@ Add instructions
 
 ### Op-geth
 
-Refer [Op-Geth Readme](https://github.com/indexooor/op-geth/blob/optimism/README.md)
+Refer [Op-Geth Readme](https://github.com/indexooor/op-geth#modifications-for-supporting-indexooor)
 
 ## 🚀 Getting Started
 
