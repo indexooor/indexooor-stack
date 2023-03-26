@@ -149,3 +149,28 @@ We welcome contributions to the Indexooor Stack! If you're interested in contrib
 1. We'll review your changes and work with you to get them merged into the main repository. By contributing to the Indexooor Stack, you'll be helping to make blockchain development easier and more accessible for everyone.
 
 Thank you for your interest in contributing to the Indexooor Stack!
+
+
+## 🤝 Indexooor vs The Graph
+
+The Graph is a popular indexing and querying solution for Ethereum and IPFS, but how does it compare to Indexooor? Let's take a look:
+
+| Feature                        | Indexooor | The Graph |
+|--------------------------------|-----------|-----------|
+| Stack weight                   | Light     | Heavy     |
+| Smart contract indexing        | Yes       | Yes       |
+| Querying smart contract data   | Yes       | Yes       |
+| Full array and mapping support | WIP (Simple types work)      | Yes       |
+| Complex join queries           | WIP (No as of today)       | Yes       |
+| No need for smart contract events | Yes     | No        |
+| Language support               | Go, Python| TypeScript, AssemblyScript |
+| Web UI                         | Yes       | Yes       |
+| Simulating services            | Yes       | N/A       |
+| Integrated indexing in node    | Yes       | Yes       |
+| Community-driven               | Yes       | Yes       |
+| Limitations                    | Requires storage layout<br>Cannot index complex types as of today | Requires subgraph deployment<br>Higher learning curve |
+
+As you can see, Indexooor is a lighter weight solution that offers many of the same features as The Graph, but with some important differences. While The Graph requires developers to deploy and manage a subgraph, Indexooor allows developers to simply upload the storage layout of their contracts and start indexing immediately. Additionally, Indexooor does not require smart contracts to emit events, making it easier to use with legacy contracts. On the other hand, The Graph offers more language support, including TypeScript and AssemblyScript, and has a more established community and learning resources.
+
+Ultimately, the choice between Indexooor and The Graph will depend on your specific needs and preferences. We encourage you to try both solutions and see which one works best for you.
+
