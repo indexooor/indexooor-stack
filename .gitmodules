@@ -1,0 +1,15 @@
+[submodule "core"]
+	path = core
+	url = https://github.com/indexooor/core
+[submodule "queriooor"]
+	path = queriooor
+	url = https://github.com/indexooor/queriooor.git
+[submodule "simulatooor"]
+	path = simulatooor
+	url = https://github.com/indexooor/simulatooor.git
+[submodule "goooi-queriooor"]
+	path = goooi-queriooor
+	url = https://github.com/indexooor/goooi-queriooor.git
+[submodule "op-geth"]
+	path = op-geth
+	url = https://github.com/indexooor/op-geth.git
