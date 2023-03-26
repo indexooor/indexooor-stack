@@ -52,7 +52,7 @@ Add instructions
 
 Refer [Op-Geth Readme](https://github.com/indexooor/op-geth/blob/optimism/README.md)
 
-# 🚀 Getting Started
+## 🚀 Getting Started
 
 Now that you've set up each submodule of the Indexooor Stack, let's learn how to use them.
 
