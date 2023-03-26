@@ -4,3 +4,5 @@
 ## Setup 
 
 To fetch all modules use `git submodule update --init --recursive`. If you want to use modules seperately, use the equivivalent git command.
+
+To update submodules to remote use `git submodule update --remote`
