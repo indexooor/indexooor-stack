@@ -131,7 +131,7 @@ Thank you all for your support and contributions!
 If you find the Indexooor Stack useful, we encourage you to share it with others in the blockchain development community. Here are some ways you can help spread the word:
 
 - Star our [GitHub repository](https://github.com/indexooor/indexooor-stack) and [follow us](https://github.com/orgs/indexooor/people) on GitHub.
-- Tweet about the Indexooor Stack and mention us `@kau5hal10`, `@manav24_`, `@MeetModi_`, `PARAMS704`, `nisarg1499`
+- Tweet about the Indexooor Stack and mention us [`@kau5hal10`](https://twitter.com/kau5hal10), [`@manav24_`](https://twitter.com/manav24_), [`@MeetModi_`](https://twitter.com/MeetModi_), [`@PARAMS704`](https://twitter.com/PARAMS704), [`@nisarg1499`](https://twitter.com/nisarg1499)
 - Share the Indexooor Stack with your friends and colleagues who are interested in blockchain development.
 - Write a blog post or tutorial about how you've used the Indexooor Stack in your own projects.
 
